@@ -2,10 +2,10 @@
 
 ![Flutter Cover](flutter.png)
 
-## :clipboard: Flutter
+## :framed_picture: Flutter
 **Flutter** is an open-source UI software development kit created by Google. It is used to develop applications for Android, iOS, Linux, Mac, Windows, Google Fuchsia and the web from a single codebase. 
 
-## :clipboard: My Flutter Projects
+## :sparkle: My Flutter Projects
 SL | Project Name | Source
 ---|--------------|-------
 01 | Climate - Weather App | [:octocat:](https://github.com/arnabb38/clima)
