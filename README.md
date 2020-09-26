@@ -8,13 +8,13 @@
 ## :sparkle: My Flutter Projects
 SL | Project Name | Source
 ---|--------------|-------
-01 | Climate - Weather App | [:octocat:](https://github.com/arnabb38/clima)
+01 | Climate | [:octocat:](https://github.com/arnabb38/clima)
 02 | BMI Calculator | [:octocat:](https://github.com/arnabb38/bmi_calculator)
 03 | Xylophone | [:octocat:](https://github.com/arnabb38/xylophone)
 04 | MI Card | [:octocat:](https://github.com/arnabb38/mi_card)
-05 | Dicee | [:octocat:](https://github.com/arnabb38/)
-06 | Quizzler | [:octocat:](https://github.com/arnabb38/)
-06 | I'm Rich | [:octocat:](https://github.com/arnabb38/)
+05 | Dicee | [:octocat:](https://github.com/arnabb38/dicee)
+06 | Quizzler | [:octocat:](https://github.com/arnabb38/quizzer)
+06 | I'm Rich | [:octocat:](https://github.com/arnabb38/iamrich)
 
 
 ## :bust_in_silhouette: Author
