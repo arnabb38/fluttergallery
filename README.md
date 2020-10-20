@@ -10,12 +10,12 @@ SL | Project Name | Source
 ---|--------------|-------
 01 | Climate | [:octocat:](https://github.com/arnabb38/clima)
 02 | BMI Calculator | [:octocat:](https://github.com/arnabb38/bmi_calculator)
-03 | Xylophone | [:octocat:](https://github.com/arnabb38/xylophone)
-04 | MI Card | [:octocat:](https://github.com/arnabb38/mi_card)
+03 | Flash Chat | [:octocat:](https://github.com/arnabb38/)
+04 | Quizzler | [:octocat:](https://github.com/arnabb38/quizzler)
 05 | Dicee | [:octocat:](https://github.com/arnabb38/dicee)
-06 | Quizzler | [:octocat:](https://github.com/arnabb38/quizzer)
-06 | I'm Rich | [:octocat:](https://github.com/arnabb38/iamrich)
-
+06 | Xylophone | [:octocat:](https://github.com/arnabb38/xylophone)
+07 | MI Card | [:octocat:](https://github.com/arnabb38/mi_card)
+08 | I'm Rich | [:octocat:](https://github.com/arnabb38/iamrich)
 
 ## :bust_in_silhouette: Author
 ### Arnab Basak
